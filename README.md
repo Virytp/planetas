@@ -1,3 +1,3 @@
 # planetas  
-Aprendiendo de los mejores  
-Gracias por la paciencia
+Mercurios, Venus, Tierra  
+El planeta rojo
