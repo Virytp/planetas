@@ -1,3 +1,3 @@
 # planetas  
-Mercurios, Venus, Tierra  
-El planeta rojo
+Mercurio, Venus, Tierra  
+Marte, el planeta rojo
